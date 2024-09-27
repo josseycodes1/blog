@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# If you're using PostgreSQL:
+*.pgsql
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+static/
+
+# Virtual environment
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Environment variables
+.env
+
+# Ignore migration files (optional, if you don't want to track migrations)
+*/migrations/*
+
+# MacOS files
+.DS_Store
+
+# Linux system files
+*~
